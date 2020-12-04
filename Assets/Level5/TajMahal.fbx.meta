@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 75e791ad1fa375442a81a9cb85482d34
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArchCutter
+    100002: Base
+    100004: Gate Cutter
+    100006: MainMinaret
+    100008: MinaretCorners
+    100010: MinaretCorners.001
+    100012: MinaretCorners.002
+    100014: MinaretCorners.003
+    100016: MinaretCorners.004
+    100018: MinaretCorners.005
+    100020: MinaretCorners.006
+    100022: MinaretCorners.007
+    100024: MinaretCorners.008
+    100026: MinaretCorners.009
+    100028: MinaretCorners.010
+    100030: MinaretCorners.011
+    100032: MinaretCorners.012
+    100034: MinaretCorners.013
+    100036: MinaretCorners.014
+    100038: MinaretCorners.015
+    100040: SmallMinarets.002
+    100042: SmallMinarets.003
+    100044: SmallMinarets.004
+    100046: SmallMinarets.005
+    100048: Taj
+    100050: Taj.001
+    100052: Taj.002
+    100054: Taj.003
+    100056: Taj.004
+    100058: //RootNode
+    100060: TopAntenna
+    400000: ArchCutter
+    400002: Base
+    400004: Gate Cutter
+    400006: MainMinaret
+    400008: MinaretCorners
+    400010: MinaretCorners.001
+    400012: MinaretCorners.002
+    400014: MinaretCorners.003
+    400016: MinaretCorners.004
+    400018: MinaretCorners.005
+    400020: MinaretCorners.006
+    400022: MinaretCorners.007
+    400024: MinaretCorners.008
+    400026: MinaretCorners.009
+    400028: MinaretCorners.010
+    400030: MinaretCorners.011
+    400032: MinaretCorners.012
+    400034: MinaretCorners.013
+    400036: MinaretCorners.014
+    400038: MinaretCorners.015
+    400040: SmallMinarets.002
+    400042: SmallMinarets.003
+    400044: SmallMinarets.004
+    400046: SmallMinarets.005
+    400048: Taj
+    400050: Taj.001
+    400052: Taj.002
+    400054: Taj.003
+    400056: Taj.004
+    400058: //RootNode
+    400060: TopAntenna
+    2100000: No Name
+    2100002: MarbleMinaretMain
+    2100004: MarbleFrontGate
+    2100006: MarbleMinaret
+    2100008: Marble
+    2100010: MarbleSmallMinaret
+    2300000: ArchCutter
+    2300002: Base
+    2300004: Gate Cutter
+    2300006: MainMinaret
+    2300008: MinaretCorners
+    2300010: MinaretCorners.001
+    2300012: MinaretCorners.002
+    2300014: MinaretCorners.003
+    2300016: MinaretCorners.004
+    2300018: MinaretCorners.005
+    2300020: MinaretCorners.006
+    2300022: MinaretCorners.007
+    2300024: MinaretCorners.008
+    2300026: MinaretCorners.009
+    2300028: MinaretCorners.010
+    2300030: MinaretCorners.011
+    2300032: MinaretCorners.012
+    2300034: MinaretCorners.013
+    2300036: MinaretCorners.014
+    2300038: MinaretCorners.015
+    2300040: SmallMinarets.002
+    2300042: SmallMinarets.003
+    2300044: SmallMinarets.004
+    2300046: SmallMinarets.005
+    2300048: Taj
+    2300050: Taj.001
+    2300052: Taj.002
+    2300054: Taj.003
+    2300056: Taj.004
+    2300058: TopAntenna
+    3300000: ArchCutter
+    3300002: Base
+    3300004: Gate Cutter
+    3300006: MainMinaret
+    3300008: MinaretCorners
+    3300010: MinaretCorners.001
+    3300012: MinaretCorners.002
+    3300014: MinaretCorners.003
+    3300016: MinaretCorners.004
+    3300018: MinaretCorners.005
+    3300020: MinaretCorners.006
+    3300022: MinaretCorners.007
+    3300024: MinaretCorners.008
+    3300026: MinaretCorners.009
+    3300028: MinaretCorners.010
+    3300030: MinaretCorners.011
+    3300032: MinaretCorners.012
+    3300034: MinaretCorners.013
+    3300036: MinaretCorners.014
+    3300038: MinaretCorners.015
+    3300040: SmallMinarets.002
+    3300042: SmallMinarets.003
+    3300044: SmallMinarets.004
+    3300046: SmallMinarets.005
+    3300048: Taj
+    3300050: Taj.001
+    3300052: Taj.002
+    3300054: Taj.003
+    3300056: Taj.004
+    3300058: TopAntenna
+    4300000: TopAntenna
+    4300002: MainMinaret
+    4300004: Taj
+    4300006: Gate Cutter
+    4300008: MinaretCorners
+    4300010: Base
+    4300012: ArchCutter
+    4300014: MinaretCorners.001
+    4300016: MinaretCorners.002
+    4300018: SmallMinarets.002
+    4300020: Taj.001
+    4300022: Taj.002
+    4300024: Taj.003
+    4300026: Taj.004
+    4300028: MinaretCorners.007
+    4300030: MinaretCorners.008
+    4300032: MinaretCorners.009
+    4300034: MinaretCorners.010
+    4300036: MinaretCorners.011
+    4300038: MinaretCorners.012
+    4300040: MinaretCorners.013
+    4300042: MinaretCorners.014
+    4300044: MinaretCorners.015
+    4300046: MinaretCorners.003
+    4300048: SmallMinarets.003
+    4300050: SmallMinarets.004
+    4300052: SmallMinarets.005
+    4300054: MinaretCorners.004
+    4300056: MinaretCorners.005
+    4300058: MinaretCorners.006
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
